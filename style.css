@@ -1,0 +1,10 @@
+.form-control{
+  width: 30%;
+  font-size: 18pt;
+  border-radius: 2px;
+}
+#button{
+  font-size: 18pt;
+  border-radius: 10px;
+  color: rgb(218, 184, 41);
+}
